@@ -1,0 +1,4 @@
+﻿main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl Submit_Part1(float * (__cdecl*)(int,bool))" (__imp_?Submit_Part1@@YAXP6APAMH_N@Z@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl Submit_Part2(float * (__cdecl*)(int,bool))" (__imp_?Submit_Part2@@YAXP6APAMH_N@Z@Z)
+vec_random.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl Submit_test(void)" (__imp_?Submit_test@@YAXXZ)
+E:\answers\Parallel-computing-Coursera-master\1 OpenMP\Week 2\Exercise1_OpenMP\Ex1\Release\random_vector.exe : fatal error LNK1120: 3 unresolved externals

@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(40): warning C4101: 'status': unreferenced local variable
+  Generating code
+  2 of 14 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Exercise1_MPI.vcxproj -> E:\answers\Parallel-computing-Coursera-master\2 MPI\Week 8\Data\Exercise1_MPI\x64\Release\Exercise1_MPI.exe
+  Exercise1_MPI.vcxproj -> E:\answers\Parallel-computing-Coursera-master\2 MPI\Week 8\Data\Exercise1_MPI\x64\Release\Exercise1_MPI.pdb (Full PDB)
